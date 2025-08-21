@@ -5,4 +5,4 @@ langchain
 langchain_chroma
 langchain_huggingface
 langchain_google_genai
-os
+os-sys
