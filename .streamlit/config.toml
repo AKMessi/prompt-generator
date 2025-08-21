@@ -1,0 +1,3 @@
+[server]
+folderWatchBlacklist = ["torch", "sentence_transformers"]
+fileWatcherType = "none"
