@@ -1,0 +1,8 @@
+streamlit
+nest_asyncio
+dotenv
+langchain
+langchain_chroma
+langchain_huggingface
+langchain_google_genai
+os
